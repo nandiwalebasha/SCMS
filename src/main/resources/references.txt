@@ -1,0 +1,9 @@
+https://github.com/eugenp/tutorials/tree/master/spring-security-modules/spring-security-web-login/
+
+https://www.baeldung.com/spring-security-login
+
+To create navigation panel in ExtJS
+https://examples.sencha.com/extjs/6.6.0/examples/kitchensink/?classic#tree-list
+
+ExtJs 3.4 docs 
+https://docs.sencha.com/extjs/3.4.0/#!/api/Ext.Panel
